@@ -5,4 +5,4 @@ SilverStripe\Admin\LeftAndMain:
   extra_requirements_css:
     - symbiote/silverstripe-grouped-cms-menu:client/dist/css/GroupedCmsMenu.css
   extensions:
-    - Symbiote\GroupedCMSMenu\Extensions\GroupedCmsMenu
+    - Symbiote\GroupedCmsMenu\Admin\GroupedCmsMenu
