@@ -1,7 +1,11 @@
 .cms-menu__list li a .toggle-children {
     position: absolute;
-    right: 0;
+    right: 5px;
     top: 10px;
+}
+
+.cms-menu__list li a .toggle-children.opened {
+    transform: rotate(180deg);
 }
 
 .cms-menu__list li a .toggle-children .toggle-children-icon {
